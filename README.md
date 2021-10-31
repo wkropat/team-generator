@@ -6,7 +6,7 @@ This is a command line application desiged for managers to build teams at work. 
 
 ## Deliverables
 
-[Video Demo Here](https://watch.screencastify.com/v/kyGRfJ8J3N7jKRVwrqAk)  
+[Video Demo Here](https://watch.screencastify.com/v/JBefmVFtjiniVMFA0OtL)  
 
 [Output HTML live](https://wkropat.github.io/team-generator/)  
 
